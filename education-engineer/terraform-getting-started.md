@@ -1,6 +1,6 @@
 # Getting Started with Terraform
 
-Terraform is the most popular language for defining and provisioning infrastructure as code. Operators define their desired infrastructure state with configuration code written in HCL, the HashiCorp Configuration Language. Terraform reads this configuration and determines the actions it must run against an API to match the configuration.
+Terraform is the most popular language for defining and provisioning infrastructure as code. Operators define their desired infrastructure state with configuration code written in HCL, the HashiCorp Configuration Language. Terraform reads this configuration and determines the actions it must run against an API to match the configuration. In this guide, you will create a basic Terraform configuration and familiarize yourself with Terraform's essential functionality.
 
 ## Prerequisites
 
