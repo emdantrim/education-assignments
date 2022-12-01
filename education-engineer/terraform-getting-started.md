@@ -103,6 +103,6 @@ $ terraform destroy
 
 ## Next steps
 
-You have now mastered the basics of operating Terraform. After defining your desired infrastructure state according to best practices, you created it using Terraform, and destroyed only the resources you created.
+You have now mastered the basics of operating Terraform. After defining your desired infrastructure state according to best practices, you created the infrastructure using Terraform. You then removed the infrastructure by destroying only the resources you created.
 
-Now, take a look at the [Terraform Registry](https://registry.terraform.io/) to learn about other parts of Terraform.
+Now, take a look at the [Terraform Registry](https://registry.terraform.io/) to learn about more Terraform's capabilities.
