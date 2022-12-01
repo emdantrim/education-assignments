@@ -51,7 +51,7 @@ provider "docker" {
 - `main.tf`
 ```hcl
 resource "docker_container" "nginx" {
-  image = docker_image.nginx.latest
+  image = docker_image.nginx.image_id
   name  = "training"
   ports {
     internal = 80
