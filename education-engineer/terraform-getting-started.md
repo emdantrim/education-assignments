@@ -87,4 +87,4 @@ Finally, use Terraform to destroy the resources you have created with `terraform
 $ terraform destroy
 ```
 
-That's it -- you've taken your first steps using Terraform to define your infrastructure! Now, take a look at the [Terraform Registry](https://registry.terraform.io/) to learn about other parts of Terraform. There are [providers](https://registry.terraform.io/browse/providers) that interact with many infrastructure APIs, [modules](https://developer.hashicorp.com/terraform/language/modules) that define a set of resources, [policy libraries](https://registry.terraform.io/browse/policies) for auditing compliance of existing infrastructure, and more.
+That's it -- you've taken your first steps using Terraform to define your infrastructure! Now, take a look at the [Terraform Registry](https://registry.terraform.io/) to learn about other parts of Terraform.
